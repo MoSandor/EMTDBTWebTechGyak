@@ -1,1 +1,1 @@
-# EMTDBTWebTechGyak
+# Molnár Sándor - EMTDBT
